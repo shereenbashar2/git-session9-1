@@ -1,6 +1,6 @@
-// app.js (Modified)
+// app.js
 function greet() {
-  console.log("Hello, Universe!");
+  console.log("Hello, World!");
 }
 
 greet();
