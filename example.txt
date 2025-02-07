@@ -1,3 +1,0 @@
-This is the main branch, modified again.
-This is the feature branch.
-This is the second commit.
